@@ -4,5 +4,5 @@ suivi d'une procedure
 *08/10 :*    
 jour 2  
 *15/10 :*  
-jour 3  
+jour 3  + lucid et suivi d'une [video](https://www.youtube.com/watch?v=DxSdSmzXIsU&t=191s)
 **aws**
