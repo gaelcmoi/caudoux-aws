@@ -1,4 +1,4 @@
-# **caudoux cloud computing**
+# **CCaudoux cours sur le cloud computing**
 *24/09 :*  
 suivi d'une procedure (jour1)  
 *08/10 :*    
