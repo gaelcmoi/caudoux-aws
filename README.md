@@ -1,8 +1,8 @@
 # **caudoux cloud computing**
 *24/09 :*  
-suivi d'une procedure  
+suivi d'une procedure (jour1)  
 *08/10 :*    
 jour 2  
 *15/10 :*  
-jour 3  + lucid et suivi d'une [video](https://www.youtube.com/watch?v=DxSdSmzXIsU&t=191s)
+jour 3  + lucid(chart) et suivi d'une [video explicative](https://www.youtube.com/watch?v=DxSdSmzXIsU&t=191s)
 **aws**
